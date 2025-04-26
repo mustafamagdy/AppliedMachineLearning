@@ -1,0 +1,8 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#4F134C",
+    "titleBar.activeBackground": "#6F1A6A",
+    "titleBar.activeForeground": "#FDF8FD"
+  },
+  "workbench.colorTheme": "Default Light Modern"
+}
